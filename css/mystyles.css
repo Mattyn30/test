@@ -1,0 +1,13 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(215, 249, 249);
+}
+
+h1, h2, h3, .subheading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+}
+
+a:hover{
+    color: #eb9daa !important;
+
+}

@@ -1,0 +1,39 @@
+body{
+    font-family: fantasy;
+    background-color: rgb(233, 180, 134);
+    color: black;
+}
+a{
+    color: rgb(61, 180, 180);
+    background-color: rgb(231, 133, 133);
+}
+h1, h2{
+    text-align: center;
+}
+img{
+    border: 5px solid pink;
+    padding: 5px;
+    height: 245px;
+    /* margin: auto;
+    display: block; */
+}
+.rizz{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: skyblue;
+    border: 5px dashed hotpink;
+    font-size: 200%;
+    font-weight: bold;
+    background-color: purple;
+}
+.rizz:hover{
+    font-size: 300%;
+    color: rgb(245, 245, 158);
+    border: 5px solid rgb(228, 188, 115) ;
+}
+li{
+    width: fit-content;
+}
+li:hover{
+    text-decoration: underline;
+    background-color: darkkhaki;
+}
